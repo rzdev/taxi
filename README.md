@@ -3,5 +3,5 @@
 To run the project
 ### `yarn start`
 
-Followed by\
+Followed by
 ### `yarn start`
